@@ -7,8 +7,7 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "tauri": "tauri",
-    "preinstall": "node preinstall.js"
+    "tauri": "tauri"
   },
   "dependencies": {
     "react": "^18.3.1",
